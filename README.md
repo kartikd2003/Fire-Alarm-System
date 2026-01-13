@@ -1,7 +1,7 @@
 # 🔥 IoT Based Automatic Fire Alarm & Extinguisher System
 
 An **IoT-enabled automatic fire detection and extinguishing system** developed using **NodeMCU (ESP8266)** and **Blynk IoT**.  
-The system detects fire, triggers an alarm, automatically activates a water pump for a fixed duration, and sends a real-time alert to the user’s smartphone.
+The system detects fire, triggers an alarm, automatically activates a water pump for a fixed duration, and sends a **real-time alert to the user’s smartphone**.
 
 ---
 
